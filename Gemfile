@@ -8,4 +8,8 @@ group :development do
   gem 'rake'
   gem 'pry'
   gem 'pry-nav'
+  gem 'mechanize'
+  gem 'jbuilder'
+  gem 'active_support', :require => 'active_support/all'
+  gem 'i18n'
 end
